@@ -1,0 +1,51 @@
+.main{
+    border: 3px solid black;
+    width: 500px;
+    margin: 0 auto;
+    height: 400px;
+    border-radius: 10px;
+    background-color: chartreuse;
+
+} 
+.result{
+    width: 99%;
+    background-color: aquamarine;
+    color: black;
+    height: 100px;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+.clearBtn{
+    width: 100%;
+    background-color: salmon;
+    height: 45px;
+    font-size: xx-large;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Btn{
+    background-color: aqua;
+    width: 120px;
+    margin: 1px;
+    height:60px;
+    font-size: xx-large;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.Btn1{
+    width: 245px;
+    margin: 1px;
+    background-color: blueviolet;
+    height:60px;
+    font-size: xx-large;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.Btn2{
+    width: 120px;
+    margin: 1px;
+    height:60px;
+    font-size: xx-large;
+    border-radius: 10px;
+}
